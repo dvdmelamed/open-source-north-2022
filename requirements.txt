@@ -1,4 +1,4 @@
 fastapi==0.71.0
 uvicorn==0.17.0
 pysqlite3==0.4.6
-alexandra==0.1.1
+flask-caching==1.0.0
